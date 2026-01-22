@@ -44,7 +44,7 @@ src/
 ├── layouts/      # Layout components
 ├── pages/        # Page-level components
 └── types/        # TypeScript types
-
+```
 
 ---
 
