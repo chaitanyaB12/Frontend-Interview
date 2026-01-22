@@ -67,6 +67,8 @@ App runs on:
 http://localhost:5173
 ```
 
+## 🔌 API Endpoints
+
 | Method | Endpoint   | Description       |
 | ------ | ---------- | ----------------- |
 | GET    | /blogs     | Get all blogs     |
@@ -76,20 +78,13 @@ http://localhost:5173
 
 ✅ Assignment Requirements Covered
 
-TanStack Query for data fetching and mutations
-
-Proper Tailwind CSS usage
-
-shadcn/ui integration
-
-Clean folder structure
-
-Loading and error states
-
-Responsive design
-
-UI and UX polish
-
+- TanStack Query for data fetching and mutations
+- Proper Tailwind CSS usage
+- shadcn/ui integration
+- Clean folder structure
+- Loading and error states
+- Responsive design
+- UI and UX polish
 ---
 
 ## ✅ How to apply it
@@ -104,7 +99,9 @@ git add README.md
 git commit -m "Update README with project details"
 git push origin main
 
+```
+## 📌 Author
 
-📌 Author
+### Chaitanya B
 
-Chaitanya B
+
