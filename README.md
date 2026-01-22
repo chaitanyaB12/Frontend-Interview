@@ -36,13 +36,14 @@ The app allows users to view blogs, read blog details, and create new blogs usin
 
 ## 📁 Project Structure
 
+```txt
 src/
-├── api/ # API calls
-├── components/ # UI components
-├── hooks/ # TanStack Query hooks
-├── layouts/ # Layout components
-├── pages/ # Page-level components
-├── types/ # TypeScript types
+├── api/          # API calls
+├── components/   # UI components
+├── hooks/        # TanStack Query hooks
+├── layouts/      # Layout components
+├── pages/        # Page-level components
+└── types/        # TypeScript types
 
 
 ---
