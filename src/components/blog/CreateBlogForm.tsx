@@ -25,17 +25,17 @@ export default function CreateBlogForm() {
       },
       {
         onSuccess: () => {
-          // ✅ Clear form
+         
           setTitle("");
           setCategory("");
           setDescription("");
           setCoverImage("");
           setContent("");
 
-          // ✅ Show success message
+          
           setShowSuccess(true);
 
-          // ✅ Auto-hide after 3 seconds
+          
           setTimeout(() => {
             setShowSuccess(false);
           }, 3000);
